@@ -38,8 +38,6 @@ for the best experience while testing or deploying |st2|:
 |  * Recommended EC2: **t2.medium**    | * Recommended EC2: **m4.xlarge**  |
 +--------------------------------------+-----------------------------------+
 
-.. contents::
-
 
 Minimal installation
 --------------------
